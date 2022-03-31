@@ -8,6 +8,11 @@ The plugin can be installed via the Cordova command line interface:
 ```sh
 cordova plugin add cordova-plugin-secure-key-store
 ```
+or via github
+
+```sh
+cordova plugin add https://github.com/JaviCastellvi/cordova-plugin-secure-key-store
+```
 
 ## Usage
 
@@ -66,4 +71,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ps91)
