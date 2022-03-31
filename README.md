@@ -3,12 +3,7 @@ Cordova plugin for securely saving keys, passwords or strings on devices.
 
 ## Installation
 
-The plugin can be installed via the Cordova command line interface:
-
-```sh
-cordova plugin add cordova-plugin-secure-key-store
-```
-or via github
+The plugin can be installed via the GitHub command line interface:
 
 ```sh
 cordova plugin add https://github.com/JaviCastellvi/cordova-plugin-secure-key-store
@@ -51,7 +46,7 @@ cordova.plugins.SecureKeyStore.remove(function (res) {
 
 MIT License
 
-Copyright (c) 2017 Javi Castellvi
+Copyright (c) 2022 Javi Castellvi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
