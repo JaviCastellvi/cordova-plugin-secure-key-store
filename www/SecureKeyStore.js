@@ -11,7 +11,7 @@ var SecureKeyStore = {
         exec(success, error, this.serviceName, "get", [key]);
     },
 
-    remove: function(key, success, error, key) {
+    remove: function(key, success, error) {
         exec(success, error, this.serviceName, "remove", [key]);
     }
 };
